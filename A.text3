@@ -1,0 +1,18 @@
+2 vv 78.04 cse
+4 bb 87.03 it
+2 nn 99.01 mech
+1 vv 45.02 cse
+2 bb 76.04 it
+3 hh 87.06 mech
+1 r 56.02 cse
+2 t 76.04 it
+3 87 89.06 mech
+1 r 34.02 cse
+2 t 67.04 mech
+3 y 87.06 it
+1,t,76.03,cse
+2,y,87.06,it
+3,a,98.08,mech
+1,e,45.0,2,it
+2,t,98.0,4,cse
+3,k,78.0,8,mech
